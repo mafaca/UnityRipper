@@ -6,9 +6,9 @@
 
 uTinyRipper is a tool for extracting assets from serialized files (*CAB-*\*, *\*.assets*, *\*.sharedAssets*, etc.) and assets bundles (*\*.unity3d*, *\*.assetbundle*, etc.) and converting them into native Engine format.
 
-Important note: work on this project has been suspended. The Author is going to restart it from scratch, please redirect development and focus on other things. So don't waste your time on PRs, propositions or complex issues. The only exception is bug fixes.
+Important note: work on this repository has been suspended. A [fork](https://github.com/ds5678/AssetRipper) has taken over development. Please redirect all [pull requests](https://github.com/ds5678/AssetRipper/pulls) and [issues](https://github.com/ds5678/AssetRipper/issues) to that repository.
 
-Supported versions: 1.x to 2019.x (since development is suspended, 2020.x or greater won't be supported)
+Supported versions: `1.x` to `2019.x`. Since development is suspended, 2020.x and greater won't be supported on this repository. Please use the [AssetRipper fork](https://github.com/ds5678/AssetRipper).
 
 ## Export features
 * Scenes
